@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "M0t0y's Wiki"
-  text: "个人知识沉淀与技术空间"
-  tagline: "在这里记录安全攻防、底层逆向与应用开发的探索轨迹"
+  text: "知行合一，格物致知"
+  tagline: "在这里记录我的探索轨迹"
   image:
     src: /logo.png # 推荐：在 docs/public 目录下放一张 logo.png，VitePress 会自动渲染在右侧
     alt: m0t0y's Logo
