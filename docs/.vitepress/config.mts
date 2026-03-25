@@ -30,7 +30,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '🚩 CTF解题', link: '/ctf/WEB/intro', activeMatch: '/ctf/' },
       { text: '🛡️ 安全与逆向', link: '/security/penetration/intro', activeMatch: '/security/' },
-      { text: '⚙️ 开发与架构', link: '/development/audit-platform/architecture', activeMatch: '/development/' }
+      { text: '⚙️ 面试题汇总', link: '/interview/summary', activeMatch: '/interview/' }
     ],
 
     // 左侧侧边栏 (Sidebar) - 路由匹配
@@ -53,8 +53,8 @@ export default defineConfig({
     },
     {
       documentRootPath: 'docs',
-      scanStartPath: 'development',
-      resolvePath: '/development/',
+      scanStartPath: 'interview',
+      resolvePath: '/interview/',
       useTitleFromFileHeading: true,
       useFolderTitleFromIndexFile: true,
       collapsed: false,
