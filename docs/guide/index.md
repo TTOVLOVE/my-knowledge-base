@@ -12,21 +12,7 @@ sidebar: false
 
 ---
 
-## 🚩 CTF 赛题复现与 Writeup
-这里记录了我在各类安全赛事中的实战解题思路、Bypass 技巧与 Exp 脚本沉淀。
-* **[🌐 Web 安全实战入门](/ctf/web/index)** —— 涵盖 SQLi、反序列化、内存马等经典题型剖析。
-* **[🔄 逆向工程 (Reverse)](/ctf/reverse/index)** —— ELF 静态分析、IDA 动态调试与脱壳技巧。
-* **[💥 二进制漏洞 (Pwn)](/ctf/pwn/index)** —— 栈溢出与 ROP 链构造。
-
-## 🛡️ 安全攻防与体系化研究
-这里偏向于真实场景下的攻防演练与底层研究。
-* **[🎯 渗透测试实战演练指南](/security/penetration/index)** —— 从外网信息搜集到内网横向移动的 PTES 实践。
-* **[🦠 恶意软件与底层逆向](/security/reverse/index)** —— 真实勒索样本分析与底层汇编逻辑。
-
-## ⚙️ 架构设计与工具开发
-这里沉淀了我造轮子的过程、系统架构图以及日常提效工具。
-* **[🏛️ 远程会话与安全审计平台](/development/audit-platform/architecture)** —— 核心架构设计与 API 文档。
-* **[🛠️ 效率脚本与自动化工具](/development/tools/index)** —— Hexo 自动化发布助手等开发记录。
+不想写目录，后面再说吧
 
 ---
 
