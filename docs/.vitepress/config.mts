@@ -7,6 +7,8 @@ export default defineConfig({
   lang: 'zh-CN',
   lastUpdated: true,
 
+ ignoreDeadLinks: true,
+
   themeConfig: {
     // 开启本地全文搜索
     search: {
@@ -26,7 +28,7 @@ export default defineConfig({
     // 顶部导航栏 (Nav) - CTF 已移动到第一个
     nav: [
       { text: '首页', link: '/' },
-      { text: '🚩 CTF解题', link: '/ctf/web/intro', activeMatch: '/ctf/' },
+      { text: '🚩 CTF解题', link: '/ctf/WEB/intro', activeMatch: '/ctf/' },
       { text: '🛡️ 安全与逆向', link: '/security/penetration/intro', activeMatch: '/security/' },
       { text: '⚙️ 开发与架构', link: '/development/audit-platform/architecture', activeMatch: '/development/' }
     ],
